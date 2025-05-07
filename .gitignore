@@ -1,0 +1,9 @@
+__pycache__
+*.jpg
+.env
+geocodecheck.py
+*.db
+Location Geocode.txt
+SECRETKEY_gen.py
+wsgi.py
+
